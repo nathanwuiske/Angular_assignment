@@ -1,4 +1,4 @@
-# Code_Challenge_Urpla
+# Quick Angular Assignment
 
 1. Using Angular 9 (and any other dependencies) to create 2 pages. The first page should list all heroes with basic information and the second should take you to the details of a single hero. We want to see how you would structure your code and use the API to retrieve data. 
 
